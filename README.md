@@ -4,4 +4,4 @@ hello
 <br>
  I am ANUBHAV singh kushwaha 
  <br>
- I am trying to make wedsite
+ <i>I am trying to make website</i>
